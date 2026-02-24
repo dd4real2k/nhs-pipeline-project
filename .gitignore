@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# If you DON'T want to publish the dataset, uncomment:
+# data/*.csv
+data/*.csv
